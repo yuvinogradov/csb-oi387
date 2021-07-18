@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://yuvinogradov.github.io/csb-oi387/static/css/main.33921b11.chunk.css",
+    "main.js": "https://yuvinogradov.github.io/csb-oi387/static/js/main.ee599920.chunk.js",
+    "main.js.map": "https://yuvinogradov.github.io/csb-oi387/static/js/main.ee599920.chunk.js.map",
+    "runtime-main.js": "https://yuvinogradov.github.io/csb-oi387/static/js/runtime-main.4798ebf2.js",
+    "runtime-main.js.map": "https://yuvinogradov.github.io/csb-oi387/static/js/runtime-main.4798ebf2.js.map",
+    "static/js/2.8c801064.chunk.js": "https://yuvinogradov.github.io/csb-oi387/static/js/2.8c801064.chunk.js",
+    "static/js/2.8c801064.chunk.js.map": "https://yuvinogradov.github.io/csb-oi387/static/js/2.8c801064.chunk.js.map",
+    "index.html": "https://yuvinogradov.github.io/csb-oi387/index.html",
+    "precache-manifest.acecb6d7ab0b6ce1fae400ea88638123.js": "https://yuvinogradov.github.io/csb-oi387/precache-manifest.acecb6d7ab0b6ce1fae400ea88638123.js",
+    "service-worker.js": "https://yuvinogradov.github.io/csb-oi387/service-worker.js",
+    "static/css/main.33921b11.chunk.css.map": "https://yuvinogradov.github.io/csb-oi387/static/css/main.33921b11.chunk.css.map",
+    "static/js/2.8c801064.chunk.js.LICENSE.txt": "https://yuvinogradov.github.io/csb-oi387/static/js/2.8c801064.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4798ebf2.js",
+    "static/js/2.8c801064.chunk.js",
+    "static/css/main.33921b11.chunk.css",
+    "static/js/main.ee599920.chunk.js"
+  ]
+}
